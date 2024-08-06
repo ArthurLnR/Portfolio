@@ -1,0 +1,7 @@
+@import './base.css';
+
+* {
+    color: var(--color-text);
+    background-color: var(--color-background);
+    border: 1px solid var(--color-border);
+}
